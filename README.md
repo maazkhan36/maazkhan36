@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Maaz Khan
 
-<!--
-**maazkhan36/maazkhan36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Python Developer | Self-taught  
+🌱 Currently learning: Python, Git, and soon Excel  
+🚀 Building small projects to grow my skills  
+📍 Location: Remote | Open to internships and freelance work  
+📫 Reach me at: maazkhanedu12@gmail.com 
+🛠️ Skills: Python, Git (basic), Problem Solving  
 
-Here are some ideas to get you started:
+## 📌 Projects I'm Working On
+- ✅ QR Code Generator (Python)
+- ✅ Calculator App
+- 🔄 To-do List App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Goals
+- Become confident in Python basics
+- Learn Excel for data tasks
+- Start freelancing with small jobs
