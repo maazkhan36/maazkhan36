@@ -10,6 +10,7 @@
 ## 📌 Projects I'm Working On
 - ✅ QR Code Generator (Python)
 - ✅ Calculator App
+- ✅ Adventure game
 - 🔄 To-do List App
 
 ## 📈 Goals
