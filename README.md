@@ -11,6 +11,7 @@
 - ✅ QR Code Generator (Python)
 - ✅ Calculator App
 - ✅ Adventure game
+- ✅ Dice game
 - 🔄 To-do List App
 
 ## 📈 Goals
