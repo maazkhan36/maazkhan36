@@ -13,6 +13,7 @@
 - ✅ Adventure game
 - ✅ Dice game
 - ✅ turtule race game
+- ✅ Fake news generator
 - 🔄 To-do List App
 
 ## 📈 Goals
