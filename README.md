@@ -14,6 +14,7 @@
 - ✅ Dice game
 - ✅ turtule race game
 - ✅ Fake news generator
+- ✅ word_guessing_game
 - 🔄 To-do List App
 
 ## 📈 Goals
