@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Maaz Khan
 
 💻 Beginner Python Developer | Self-taught  
-🌱 Currently learning: Python, Git, and soon Excel  
+🌱 Currently learning: cyber security basics , linux .  
 🚀 Building small projects to grow my skills  
 📍 Location: Remote | Open to internships and freelance work  
 📫 Reach me at: maazkhanedu12@gmail.com 
