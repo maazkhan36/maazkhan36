@@ -18,6 +18,9 @@
 - 🔄 To-do List App
 
 ## 📈 Goals
-- Become confident in Python basics
-- Learn Excel for data tasks
-- Start freelancing with small jobs
+- Specialize in Cyber Security
+- Strengthen skills in Linux systems
+- Build strong understanding of Networking
+- Learn and apply Security Fundamentals
+- Use Python for security automation
+- Apply Python for security analysis and scripting
