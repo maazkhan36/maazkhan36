@@ -4,7 +4,6 @@
 🌱 Currently learning: cyber security basics , linux .  
 🚀 Building small projects to grow my skills  
 📍 Location: Remote | Open to internships and freelance work  
-📫 Reach me at: maazkhanedu12@gmail.com 
 🛠️ Skills: Python, Git (basic), Problem Solving  
 
 ## 📌 Projects I'm Working On
