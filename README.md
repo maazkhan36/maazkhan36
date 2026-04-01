@@ -1,10 +1,12 @@
 # 👋 Hello, I'm Maaz Khan
 
-💻 Beginner Python Developer | Self-taught  
-🌱 Currently learning: cyber security basics , linux .  
-🚀 Building small projects to grow my skills  
-📍 Location: Remote | Open to internships and freelance work  
-🛠️ Skills: Python, Git (basic), Problem Solving  
+💻 Aspiring Cybersecurity Professional
+🔐 Focused on: Cybersecurity Fundamentals, Linux, Networking
+🐍 Background in Python (used for automation & security tasks)
+🛠️ Skills: Linux (basic), Python, Git, Problem Solving
+📚 Currently learning: Security concepts, Threat detection, System basics
+🚀 Building hands-on projects to develop real-world security skills
+📍 Open to internships & entry-level opportunities  
 
 ## 📌 Projects I'm Working On
 - ✅ QR Code Generator (Python)
